@@ -324,8 +324,8 @@ span
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border-top: 0.2rem solid var(--sec-bg-color);
-    border-bottom: 0.2rem solid var(--sec-bg-color);
+       border-top: 0.2rem solid  transparent;
+    border-bottom: 0.2rem solid  transparent;
     border-left: 0.2rem solid var(--white);
     border-right: 0.2rem solid  var(--white);
     animation: aboutspinner 8s linear infinite;
