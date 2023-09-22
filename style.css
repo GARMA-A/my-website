@@ -101,7 +101,7 @@ section
 
 .home-content
 {
-    max-width: 60rem;
+    max-width: 65rem;
     z-index: 99;
 }
 
@@ -127,7 +127,7 @@ section
 
 .home-content .text-animate h3
 {
-    font-size: 3.2rem;
+    font-size: 3.0rem;
     font-weight: 700;
     color: transparent;
    -webkit-text-stroke: 1.5px var(--sec-bg-color);
